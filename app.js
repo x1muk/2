@@ -37,7 +37,7 @@ function init() {
         // Теперь создадим список, содержащий 5 пунктов.
         listBoxControl = new ymaps.control.ListBox({
             data: {
-                content: 'Фильтр',
+                content: 'Жмакай туть',
                 title: 'Фильтр'
             },
             items: listBoxItems,
