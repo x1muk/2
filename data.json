@@ -33,6 +33,50 @@
         
         {"type": "Feature", "id": 15, "geometry": {"type": "Point", "coordinates": [59.946963273758584,30.337441949297336]}, "properties": {"balloonContent": "Бар", "clusterCaption": "Набережная фонтанки напротив летнего", "hintContent": "Набережная фонтанки напротив летнего", "iconCaption": "Набережная фонтанки напротив летнего"}, "options": {"preset": "islands#blackCircleDotIconWithCaption"}},
 
-        {"type": "Feature", "id": 16, "geometry": {"type": "Point", "coordinates": [59.930366259587025,30.290956285680387]}, "properties": {"balloonContent": "Бар", "clusterCaption": "Новая Голландия", "hintContent": "Новая Голландия", "iconCaption": "Новая Голландия"}, "options": {"preset": "islands#blackCircleDotIconWithCaption"}}
+        {"type": "Feature", "id": 16, "geometry": {"type": "Point", "coordinates": [59.930366259587025,30.290956285680387]}, "properties": {"balloonContent": "Бар", "clusterCaption": "Новая Голландия", "hintContent": "Новая Голландия", "iconCaption": "Новая Голландия"}, "options": {"preset": "islands#blackCircleDotIconWithCaption"}},
+
+        {"type": "Feature", "id": 17, "geometry": {"type": "Point", "coordinates": [59.92812709951486,30.312631703704817]}, "properties": {"balloonContent": "Бар", "clusterCaption": "Бертгольд центр", "hintContent": "Бертгольд центр", "iconCaption": "Бертгольд центр"}, "options": {"preset": "islands#blackCircleDotIconWithCaption"}},
+
+        {"type": "Feature", "id": 18, "geometry": {"type": "Point", "coordinates": [59.928449917014724,30.300187703041054]}, "properties": {"balloonContent": "Бар", "clusterCaption": "Крыша Небо и Вино", "hintContent": "Крыша Небо и Вино", "iconCaption": "Крыша Небо и Вино"}, "options": {"preset": "islands#blackCircleDotIconWithCaption"}},
+
+        {"type": "Feature", "id": 19, "geometry": {"type": "Point", "coordinates": [59.9599329588963,30.269751978851332]}, "properties": {"balloonContent": "Бар", "clusterCaption": "Мост Бетанкура", "hintContent": "Мост Бетанкура", "iconCaption": "Мост Бетанкура"}, "options": {"preset": "islands#blackCircleDotIconWithCaption"}},
+
+        {"type": "Feature", "id": 20, "geometry": {"type": "Point", "coordinates": [59.94868336852319,30.36847414960285]}, "properties": {"balloonContent": "Бар", "clusterCaption": "Оранжерея таврического сада", "hintContent": "Оранжерея таврического сада", "iconCaption": "Оранжерея таврического сада"}, "options": {"preset": "islands#blackCircleDotIconWithCaption"}},
+
+        {"type": "Feature", "id": 21, "geometry": {"type": "Point", "coordinates": [59.92454622682045,30.241016142852782]}, "properties": {"balloonContent": "Бар", "clusterCaption": "Севкабель", "hintContent": "Севкабель", "iconCaption": "Севкабель"}, "options": {"preset": "islands#blackCircleDotIconWithCaption"}},
+
+        {"type": "Feature", "id": 22, "geometry": {"type": "Point", "coordinates": [59.89794798887015,30.211319893586307]}, "properties": {"balloonContent": "Бар", "clusterCaption": "Канонерский остров", "hintContent": "Канонерский остров", "iconCaption": "Канонерский остров"}, "options": {"preset": "islands#blackCircleDotIconWithCaption"}},
+
+        {"type": "Feature", "id": 23, "geometry": {"type": "Point", "coordinates": [59.94366266225343,30.340750304893504]}, "properties": {"balloonContent": "Бар", "clusterCaption": "Академия Штиглица", "hintContent": "Академия Штиглица", "iconCaption": "Академия Штиглица"}, "options": {"preset": "islands#blackCircleDotIconWithCaption"}},
+
+        {"type": "Feature", "id": 24, "geometry": {"type": "Point", "coordinates": [59.937485510069365,30.2903569619217]}, "properties": {"balloonContent": "Бар", "clusterCaption": "Академия Репина", "hintContent": "Академия Репина", "iconCaption": "Академия Репина"}, "options": {"preset": "islands#blackCircleDotIconWithCaption"}},
+
+        {"type": "Feature", "id": 25, "geometry": {"type": "Point", "coordinates": [59.931492973048016,30.30457803411866]}, "properties": {"balloonContent": "Бар", "clusterCaption": "Дом архитектора", "hintContent": "Дом архитектора", "iconCaption": "Дом архитектора"}, "options": {"preset": "islands#blackCircleDotIconWithCaption"}},
+
+        {"type": "Feature", "id": 26, "geometry": {"type": "Point", "coordinates": [59.928405826364624,30.300670500663735]}, "properties": {"balloonContent": "Бар", "clusterCaption": "Пальма", "hintContent": "Пальма", "iconCaption": "Пальма"}, "options": {"preset": "islands#blackCircleDotIconWithCaption"}},
+
+        {"type": "Feature", "id": 27, "geometry": {"type": "Point", "coordinates": [59.96231729449811,30.311329696168062]}, "properties": {"balloonContent": "Бар", "clusterCaption": "Дворик на Петроградке", "hintContent": "Дворик на Петроградке", "iconCaption": "Дворик на Петроградке"}, "options": {"preset": "islands#blackCircleDotIconWithCaption"}},
+
+        {"type": "Feature", "id": 28, "geometry": {"type": "Point", "coordinates": [59.97527637539957,30.30388354662698]}, "properties": {"balloonContent": "Бар", "clusterCaption": "Дворик на Петроградке 2", "hintContent": "Дворик на Петроградке 2", "iconCaption": "Дворик на Петроградке 2"}, "options": {"preset": "islands#blackCircleDotIconWithCaption"}},
+
+        {"type": "Feature", "id": 29, "geometry": {"type": "Point", "coordinates": [59.976217720151894,30.30524471892339]}, "properties": {"balloonContent": "Бар", "clusterCaption": "Лопухинский сад", "hintContent": "Лопухинский сад", "iconCaption": "Лопухинский сад"}, "options": {"preset": "islands#blackCircleDotIconWithCaption"}},
+
+        {"type": "Feature", "id": 30, "geometry": {"type": "Point", "coordinates": [59.986550, 29.781138]}, "properties": {"balloonContent": "Бар", "clusterCaption": "Круглое окно в Кронштадте", "hintContent": "Круглое окно в Кронштадте", "iconCaption": "Круглое окно в Кронштадте"}, "options": {"preset": "islands#blackCircleDotIconWithCaption"}},
+
+        {"type": "Feature", "id": 31, "geometry": {"type": "Point", "coordinates": [59.710845, 30.325026]}, "properties": {"balloonContent": "Бар", "clusterCaption": "Поле с дубом", "hintContent": "Поле с дубом", "iconCaption": "Поле с дубом"}, "options": {"preset": "islands#blackCircleDotIconWithCaption"}},
+
+        {"type": "Feature", "id": 32, "geometry": {"type": "Point", "coordinates": [59.917718, 30.280582]}, "properties": {"balloonContent": "Бар", "clusterCaption": "Двери пожарной части", "hintContent": "Двери пожарной части", "iconCaption": "Двери пожарной части"}, "options": {"preset": "islands#blackCircleDotIconWithCaption"}},
+
+        {"type": "Feature", "id": 33, "geometry": {"type": "Point", "coordinates": [59.955485, 30.303106]}, "properties": {"balloonContent": "Бар", "clusterCaption": "Стена с плющом", "hintContent": "Стена с плющом", "iconCaption": "Стена с плющом"}, "options": {"preset": "islands#blackCircleDotIconWithCaption"}},
+
+        {"type": "Feature", "id": 34, "geometry": {"type": "Point", "coordinates": [60.131776, 29.997482]}, "properties": {"balloonContent": "Бар", "clusterCaption": "Эко-тропа Сестрорецкое Болото", "hintContent": "Эко-тропа Сестрорецкое Болото", "iconCaption": "Эко-тропа Сестрорецкое Болото"}, "options": {"preset": "islands#blackCircleDotIconWithCaption"}},
+
+        {"type": "Feature", "id": 35, "geometry": {"type": "Point", "coordinates": [60.058987, 29.963338]}, "properties": {"balloonContent": "Бар", "clusterCaption": "Песочный пляж с сосной", "hintContent": "Песочный пляж с сосной", "iconCaption": "Песочный пляж с сосной"}, "options": {"preset": "islands#blackCircleDotIconWithCaption"}},
+
+        {"type": "Feature", "id": 36, "geometry": {"type": "Point", "coordinates": [59.947474, 30.342014]}, "properties": {"balloonContent": "Бар", "clusterCaption": "Маленький жёлтый домик", "hintContent": "Маленький жёлтый домик", "iconCaption": "Маленький жёлтый домик"}, "options": {"preset": "islands#blackCircleDotIconWithCaption"}},
+
+        {"type": "Feature", "id": 37, "geometry": {"type": "Point", "coordinates": [59.926249, 30.300070]}, "properties": {"balloonContent": "Парадные", "clusterCaption": "Красная парадная", "hintContent": "Красная парадная", "iconCaption": "Красная парадная"}, "options": {"preset": "islands#blackCircleDotIconWithCaption"}}
+
+
     ]
 }
