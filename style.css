@@ -3,13 +3,6 @@ html, body, #map {
     height: 100%; 
     padding: 0; 
     margin: 0;
-    //filter: invert(1) hue-rotate(-90deg);
+    
 }
 
-[class*="balloon__content"] {
-    background: red;
-}
-[class*="balloon__tail"] {
-    background: red;
-    background-color: red;
-}
