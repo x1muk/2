@@ -1,3 +1,12 @@
 {"type": "Feature", "id": 34, "geometry": {"type": "Point", "coordinates": []}, "properties": {"balloonContent": "Бар", "clusterCaption": "", "hintContent": "", "iconCaption": ""}, "options": {"preset": "islands#blackCircleDotIconWithCaption"}}
 
 <div class='carousel-item'><img src='/img/id_9_double_2.jpg' class='d-block w-100' alt='id_9_double_2.jpg'></div>
+
+"Усадьбы"
+"Природные локации"
+"Урбан"
+"Дворцовые интерьеры"
+"Городская архитектура"
+"Парадные"
+"Крыши"
+"Готика(вокзал, конюшни, склеп)"

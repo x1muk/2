@@ -19,7 +19,7 @@ function init() {
     myMap.geoObjects.add(objectManager);
 
     // Создадим 5 пунктов выпадающего списка.
-    var listBoxItems = ['Усадьбы', 'Фотостудия', 'Загс', 'Парадные', 'Бар']
+    var listBoxItems = ['Усадьбы', 'Природные локации', 'Урбан', 'Дворцовые интерьеры', 'Городская архитектура', 'Парадные', 'Крыши', 'Готика(вокзал, конюшни, склеп)', 'Маяки']
             .map(function (title) {
                 return new ymaps.control.ListBoxItem({
                     data: {
@@ -38,7 +38,7 @@ function init() {
         listBoxControl = new ymaps.control.ListBox({
             data: {
                 content: 'Жмакай туть',
-                title: 'Фильтр'
+                title: 'Кошечка пробегала мимо и жмакала тут лапками :3'
             },
             items: listBoxItems,
             state: {
